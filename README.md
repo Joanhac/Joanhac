@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hola 👋, soy Joanhac</h1>
 
 ###
 
@@ -42,8 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joanhac&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=joanhac&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joanhac&theme=catppuccin-macchiato&hide_border=true&border_radius=20&locale=es&background=45%2C24273A%2C181926&ring=F5A97F&fire=ED8796&currStreakNum=ED8796&sideNums=ED8796&currStreakLabel=EED49F&sideLabels=CAD3F5&dates=F0C6C6" alt="GitHub Streak" /></a>
 </div>
 
 ###
