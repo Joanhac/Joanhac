@@ -1,5 +1,5 @@
-<div>
-<div class="tenor-gif-embed" data-postid="5700553319668700329" data-share-method="host" data-aspect-ratio="0.773092" data-width="100%"><a href="https://tenor.com/view/nagatoro-noodletoro-noodle-arms-ijiranaide-nagatoro-san-don%27t-toy-with-me-miss-nagatoro-gif-5700553319668700329">Nagatoro Noodletoro GIF</a>from <a href="https://tenor.com/search/nagatoro-gifs">Nagatoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="display: flex">
+<img src="nagatoro-noodletoro.gif" width="200px">
 <h1>Hi 👋 My name is Joan Ibica</h1>
 </div>
 
